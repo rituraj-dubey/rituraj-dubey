@@ -26,7 +26,10 @@ Introverted but willing to discuss Hacking!
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rituraj-dubey&show_icons=true&locale=en" alt="rituraj-dubey" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rituraj-dubey&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj-dubey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![An image of @riturajdubey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riturajdubey)](https://holopin.io/@riturajdubey)
 
 
