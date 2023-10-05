@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rituraj Dubey</h1>
-=================================
+<h1 align="center">=================================</h1>
 
 <h3 align="center">A passionate Cybersecurity Enthusiast.</h3>
-----------------------------------
+<h2 align="center">----------------------------------</h2>
 
 Introverted but willing to discuss Hacking!
 
