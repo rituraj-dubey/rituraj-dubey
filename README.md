@@ -6,6 +6,8 @@
 
 Introverted but willing to discuss Hacking!
 
+- 🌍 I'm based in India
+
 - 🌱 I’m currently learning **Web App Penetration Testing.**
 
 - 👯 I’m looking to collaborate on **Python and Cybersecurity Projects**
